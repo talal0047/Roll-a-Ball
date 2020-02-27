@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: c8abc7cf53aa02c408e24e43b316324f
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: 33391002b7930fd478a393e2c168b28b
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 9ca3a7a26d73f9d4b95de90ee3ee026c
+  - enabled: 1
+    path: Assets/Scenes/Level Selection.unity
+    guid: d9f9ad0513ee29e428152053b675f4e8
+  - enabled: 1
+    path: Assets/Scenes/Player Selection.unity
+    guid: 838bfafbeb042a348aa1589fcb14e12f
+  - enabled: 1
+    path: Assets/Scenes/MiniGame.unity
+    guid: d7d30372ab9ac1845b278a0d8b384f19
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: cd232afba485baa4a9d064e5abfe3288
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: fa67fa5cdcfa81747abdf2f176660c71
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: d6d4709a3e8aec748a75ace864325e5d
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: 98ca9eeca55b29e419627780cc812ff0
+  - enabled: 0
+    path: 
+    guid: aefe81c2765672245ba501bf0fac2f2e
+  m_configObjects: {}
